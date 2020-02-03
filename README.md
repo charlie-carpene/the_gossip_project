@@ -5,22 +5,22 @@
   - Un site/blog avec 4 potins (en partant de 0, soit 5 potins).
   - L'architecture est comme ça :
 
-  the_gossip_project
-  |
-  |-- README.md
-  |–- Gemfile
-  |-- Gemfile.lock
-  |-- config.ru
-  |-- db
-  |    |-- gossip.csv
-  |
-  |-- lib
-       |-- controller.rb
-       |-- gossip.rb
-       |-- views
-             |-- index.erb
-             |-- new_gossip.erb
-             |-- show_one_gossip.erb
+>  the_gossip_project
+>  |
+>  |-- README.md
+>  |–- Gemfile
+>  |-- Gemfile.lock
+>  |-- config.ru
+>  |-- db
+>  |    |-- gossip.csv
+>  |
+>  |-- lib
+>       |-- controller.rb
+>       |-- gossip.rb
+>       |-- views
+>             |-- index.erb
+>             |-- new_gossip.erb
+>             |-- show_one_gossip.erb
 
 **Ensuite : où j'en suis ?**
  - au *2.7. Editer un potin*. A priori  ça  a l'air de fonctionner jusque là.
