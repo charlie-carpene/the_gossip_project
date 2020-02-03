@@ -30,6 +30,6 @@
  - ouvrir un navigateur et mettre l'url `http://localhost:4567/`
  - pour ouvrir l'un des 5 potins, rajouter à l'url `gossip/` + le numéro voulu (de 0 à 4)
 
-**Enfin : où j'en suis ?**
- - Au 2.7. Editer un potin*. A priori  ça  a l'air de fonctionner jusque là.
+**Enfin : j'en suis où ?**
+ - Au *2.7. Editer un potin*. A priori ça a l'air de fonctionner jusque là.
  - J'aurai aimé récupérer le numéro de chaque potin en créant une variable sur la class Gossip mais j'ai pas réussi.. 
