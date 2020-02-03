@@ -35,4 +35,4 @@
  - J'aurai aimé récupérer le numéro de chaque potin en créant une variable sur la class Gossip mais j'ai pas réussi.. 
 
 
-##A tte pour la correction ! :)
+## A tte pour la correction ! :)
