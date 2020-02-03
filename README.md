@@ -1,5 +1,5 @@
-#BienVenuE
-> sur le site des potins <
+# BienVenuE
+----- sur le site des potins ------
 
 **Pour commencer : qu'est-ce qu'il y a dans ce répo ?**
   - Un site/blog avec 4 potins (en partant de 0, soit 5 potins).
