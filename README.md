@@ -1,4 +1,4 @@
------ #BienVenuE -----
+#BienVenuE
 > sur le site des potins <
 
 **Pour commencer : qu'est-ce qu'il y a dans ce répo ?**
