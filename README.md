@@ -33,3 +33,6 @@
 **Enfin : j'en suis où ?**
  - Au *2.7. Editer un potin*. A priori ça a l'air de fonctionner jusque là.
  - J'aurai aimé récupérer le numéro de chaque potin en créant une variable sur la class Gossip mais j'ai pas réussi.. 
+
+
+##A tte pour la correction ! :)
