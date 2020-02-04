@@ -31,7 +31,7 @@
  - pour ouvrir l'un des 5 potins, rajouter à l'url `gossip/` + le numéro voulu (de 0 à 4)
 
 **Enfin : j'en suis où ?**
- - Au *2.7. Editer un potin*. A priori ça a l'air de fonctionner jusque là.
+ - Au *2.7. Editer un potin* (que je n'ai pas commencé). A priori ça a l'air de fonctionner jusque là.
  - J'aurai aimé récupérer le numéro de chaque potin en créant une variable sur la class Gossip mais j'ai pas réussi.. 
 
 
